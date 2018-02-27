@@ -1,4 +1,4 @@
-original-bitcoin
-================
+# Bitcoin 
+### (Original Version)
 
-This is a historical repository of Satoshi Nakamoto's original bitcoin sourcecode
+This is the source code of Satoshi Nakamoto's historical Bitcoin.
